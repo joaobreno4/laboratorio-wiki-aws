@@ -68,3 +68,5 @@ laboratório-wiki-aws/
 ## Entrega
 
 A proposta completa de arquitetura encontra-se em **[resposta.md](./resposta.md)**.
+
+Criado por João Breno
