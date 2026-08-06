@@ -1,11 +1,11 @@
-# 🧠 Laboratório — Wiki Inteligente AWS
+# Laboratório — Wiki Inteligente AWS
 ### Agente de Gestão de Base de Conhecimentos com RAG Serverless
 
 > **Desafio DIO** — Construção de um Pipeline RAG (Retrieval-Augmented Generation) Serverless e Event-Driven na AWS para indexação e consulta de documentos heterogêneos em linguagem natural.
 
 ---
 
-## 📐 Arquitetura
+##  Arquitetura
 
 ```
 ┌──────────────────────────────────────────────────┐
@@ -38,7 +38,7 @@
 └──────────────────────────────────────────────────┘
 ```
 
-## 📂 Estrutura do Repositório
+##  Estrutura do Repositório
 
 ```
 laboratório-wiki-aws/
@@ -52,7 +52,7 @@ laboratório-wiki-aws/
     └── csv_processor/      # Transformação semântica de CSV
 ```
 
-## 🚀 Serviços AWS Utilizados
+## Serviços AWS Utilizados
 
 | Serviço | Função |
 |---|---|
@@ -65,6 +65,6 @@ laboratório-wiki-aws/
 | Amazon OpenSearch Serverless | Vector Store (k-NN) |
 | Anthropic Claude 3.5 Sonnet | LLM de geração de respostas |
 
-## 📄 Entrega
+## Entrega
 
 A proposta completa de arquitetura encontra-se em **[resposta.md](./resposta.md)**.
